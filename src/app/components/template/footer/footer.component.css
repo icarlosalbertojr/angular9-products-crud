@@ -3,7 +3,7 @@
   bottom: 0;
   display: flex;
   justify-content: flex-end;
-  background-color: white;
+  background-color: #f8f8f8;
 }
 
 .footer > span {

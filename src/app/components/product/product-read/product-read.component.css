@@ -1,0 +1,20 @@
+table {
+  width: 100%;
+}
+
+th {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+ng-container:hover {
+  border: 1px solid #3f51b5;
+}
+
+.edit {
+  color: #3f51b5;
+  margin-right: 10px;
+}
+.delete {
+  color: #e35e6b;
+}
